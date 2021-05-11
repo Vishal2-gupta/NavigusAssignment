@@ -1,0 +1,58 @@
+<html>
+<head>
+<script type="text/javascript" src="script2.js"></script>
+</head>
+<body>
+<div id="wrapper">
+<table  bgcolor="yellow"align='left' cellspacing=2 cellpadding=5 id="data_table" width="1350" height="600" border=1 >
+<tr>
+<th>COURSE</th>
+<th>QUIZ NAME</th>
+<th>QUESTION AND ANSWER</th>
+</tr>
+
+<tr id="row1">
+<td id="name_row1">Computer Network</td>
+<td id="country_row1">Quiz of CN</td>
+<td id="age_row1">Role of Datalink layer?</td>
+<td>
+<input type="button" id="edit_button1" value="Edit" class="edit" onclick="edit_row('1')">
+<input type="button" id="save_button1" value="Save" class="save" onclick="save_row('1')">
+<input type="button" value="Delete" class="delete" onclick="delete_row('1')">
+</td>
+</tr>
+
+<tr id="row2">
+<td id="name_row2">Operating System</td>
+<td id="country_row2">Quiz of OS</td>
+<td id="age_row2">Method to avoid Deadlock?</td>
+<td>
+<input type="button" id="edit_button2" value="Edit" class="edit" onclick="edit_row('2')">
+<input type="button" id="save_button2" value="Save" class="save" onclick="save_row('2')">
+<input type="button" value="Delete" class="delete" onclick="delete_row('2')">
+</td>
+</tr>
+
+<tr id="row3">
+<td id="name_row3">DBMS</td>
+<td id="country_row3">Quiz of DBMS</td>
+<td id="age_row3">Full form of DBMS?</td>
+<td>
+<input type="button" id="edit_button3" value="Edit" class="edit" onclick="edit_row('3')">
+<input type="button" id="save_button3" value="Save" class="save" onclick="save_row('3')">
+<input type="button" value="Delete" class="delete" onclick="delete_row('3')">
+</td>
+</tr>
+
+<tr>
+<td><input type="text" id="new_name"></td>
+<td><input type="text" id="new_country"></td>
+<td><input type="text" id="new_age"></td>
+<td><input type="button" class="add" onclick="add_row();" value="Add Row"></td>
+</tr>
+
+</table>
+</div>
+
+</body>
+</html>

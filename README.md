@@ -37,6 +37,10 @@ Different Corurse Selection Quiz
 Score Card
 ![Screenshot (415)](https://user-images.githubusercontent.com/62341045/117764351-f6542b00-b249-11eb-8278-3ae5b3a370af.png)
 
+Admin Side to do Changements
+![Screenshot (416)](https://user-images.githubusercontent.com/62341045/117764418-1257cc80-b24a-11eb-87ee-30abcc6c21dc.png)
+
+
 
 
 

@@ -31,5 +31,9 @@ Rules for Quiz
 Quiz With Timer
 ![Screenshot (414)](https://user-images.githubusercontent.com/62341045/117764130-9c536580-b249-11eb-924e-fea2cb4d244b.png)
 
+Different Corurse Selection Quiz
+![Screenshot (409)](https://user-images.githubusercontent.com/62341045/117764228-c6a52300-b249-11eb-8666-47a60c1fbf34.png)
+
+
 
  

@@ -25,4 +25,8 @@ LoginPage
 Course Select by student to give quiz
 ![Screenshot (412)](https://user-images.githubusercontent.com/62341045/117763942-4f6f8f00-b249-11eb-92c7-2407f581c9bb.png)
 
+Rules for Quiz
+![Screenshot (413)](https://user-images.githubusercontent.com/62341045/117764034-78901f80-b249-11eb-956c-3aa80badc8bc.png)
+
+
  

@@ -18,5 +18,8 @@ JavaScript is a text-based programming language used both on the client-side and
 Login Id: admin@agmail.com
 
 Password: Vishal
+#Output
+LoginPage
+![Screenshot (411)](https://user-images.githubusercontent.com/62341045/117763619-bccef000-b248-11eb-9662-fe51ad92377a.png)
 
  

@@ -28,5 +28,8 @@ Course Select by student to give quiz
 Rules for Quiz
 ![Screenshot (413)](https://user-images.githubusercontent.com/62341045/117764034-78901f80-b249-11eb-956c-3aa80badc8bc.png)
 
+Quiz With Timer
+![Screenshot (414)](https://user-images.githubusercontent.com/62341045/117764130-9c536580-b249-11eb-924e-fea2cb4d244b.png)
+
 
  

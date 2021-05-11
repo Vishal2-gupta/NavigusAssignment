@@ -34,6 +34,10 @@ Quiz With Timer
 Different Corurse Selection Quiz
 ![Screenshot (409)](https://user-images.githubusercontent.com/62341045/117764228-c6a52300-b249-11eb-8666-47a60c1fbf34.png)
 
+Score Card
+![Screenshot (415)](https://user-images.githubusercontent.com/62341045/117764351-f6542b00-b249-11eb-8278-3ae5b3a370af.png)
+
+
 
 
  

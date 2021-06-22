@@ -1,4 +1,4 @@
-# NavigusAssignment
+# Quiz Mangaement System Website
 # Front end:
 HTML, CSS, JavaScript
 
